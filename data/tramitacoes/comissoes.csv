@@ -1,0 +1,121 @@
+data_fim_comissao,id_comissao,nome_comissao,sigla_comissao
+2008-06-26T00:00:00-03:00,11072,CPI da Guerra Fiscal,CPIGF
+2008-06-25T00:00:00-03:00,11073,CPI da Queima da Palha da Cana-de-açúcar,CPIQPCA
+2009-04-15T00:00:00-03:00,11199,CPI da Santa Casa,CPISC
+,12769,Comissão Especial de Reforma da Lei Orgânica dos Municípios,CERLOM
+,12770,Comissão do Serviço Público Civil,CSPC
+2010-02-03T00:00:00-02:00,12216,CPI do Erro Médico,CPIEM
+2010-10-25T00:00:00-02:00,12221,CPI BANCOOP,CPIBANCOOP
+2010-10-06T00:00:00-03:00,12222,CPI IPVA,CPIIPVA
+2010-10-25T00:00:00-02:00,12223,CPI Pedofilia,CPIPEDOF
+,12444,"Comissão de Constituição, Justiça e Redação",CCJR
+,12445,"Comissão de Finanças, Orçamento e Planejamento",CFOP
+,12446,Comissão de Saúde,CS
+,12447,Comissão de Educação e Cultura,CEC
+,12448,Comissão de Assuntos Desportivos,CAD
+,12449,Comissão de Assuntos Metropolitanos e Municipais,CAMM
+,12450,Comissão de Infraestrutura,CI
+,12451,Comissão de Segurança Pública e Assuntos Penitenciários,CSPAP
+,12452,Comissão de Administração Pública e Relações do Trabalho,CAPRT
+,12453,Comissão de Meio Ambiente e Desenvolvimento Sustentável,CMADS
+,12454,Comissão de Atividades Econômicas,CAE
+,12455,"Comissão de Defesa dos Direitos da Pessoa Humana, da Cidadania, da Participação e das Questões Sociais",CDD
+,12456,"Comissão de Ciência, Tecnologia, Inovação e Informação",CCTI
+,12898,CPI do Desaparecimento de Pessoas,
+2015-03-14T00:00:00-03:00,13014,CPI Fundação para o Desenvolvimento da Educação - FDE,CPIFDE
+2016-09-27T00:00:00-03:00,13327,CPI Epidemia do Crack,CPI-Crack
+2009-11-05T00:00:00-02:00,12160,CPI da CDHU,CPICDHU
+2010-02-09T00:00:00-02:00,12230,CPI Cursos de Medicina,CPIMED
+2016-05-18T00:00:00-03:00,13297,CPI Invasão de Terrenos,CPI-InvTer
+2016-12-13T00:00:00-02:00,13355,CPI Merenda,CPI-Merend
+,99983,COMISSÕES - REUNIÕES CONJUNTAS,CRC
+2016-09-13T00:00:00-03:00,13296,CPI Obesidade Infantil,CPI-ObInf
+2016-09-17T00:00:00-03:00,13325,CPI Sistema Financeiro,CPI-SisFin
+2015-03-10T00:00:00-03:00,13033,CPI Violações dos Direitos Humanos nas Faculdades Paulistas,CPIUSP
+2015-09-27T00:00:00-03:00,13146,CPI Trabalho Infantil,CPITINF
+2011-03-15T00:00:00-03:00,10037,Comissão de Legislação Participativa,CLP
+2011-03-15T00:00:00-03:00,8501,Comissão de Constituição e Justiça,CCJ
+2011-03-15T00:00:00-03:00,8502,Comissão de Educação,CE
+2011-03-15T00:00:00-03:00,8503,Comissão de Administração Pública,CAP
+2011-03-15T00:00:00-03:00,8504,Comissão de Agricultura e Pecuária,CAPE
+2011-03-15T00:00:00-03:00,8505,Comissão de Assuntos Metropolitanos,CAME
+2011-03-15T00:00:00-03:00,8506,Comissão de Assuntos Municipais,CAMU
+2011-03-15T00:00:00-03:00,8507,"Comissão de Cultura, Ciência e Tecnologia",CCCT
+2011-03-15T00:00:00-03:00,8508,Comissão de Direitos Humanos,CDH
+,8509,Comissão de Fiscalização e Controle,CFC
+2011-03-15T00:00:00-03:00,8510,Comissão de Defesa do Meio Ambiente,CDMA
+2011-03-15T00:00:00-03:00,8511,Comissão de Economia e Planejamento,CEP
+2011-03-15T00:00:00-03:00,8512,Comissão de Esportes e Turismo,CET
+2011-03-15T00:00:00-03:00,8513,Comissão de Promoção Social,CPS
+2011-03-15T00:00:00-03:00,8514,Comissão de Redação,CR
+2011-03-15T00:00:00-03:00,8515,Comissão de Finanças e Orçamento,CFO
+2011-03-15T00:00:00-03:00,8516,Comissão de Relações do Trabalho,CRT
+2011-03-15T00:00:00-03:00,8517,Comissão de Saúde e Higiene,CSH
+2011-03-15T00:00:00-03:00,8518,Comissão de Segurança Pública,CSP
+2011-03-15T00:00:00-03:00,8519,Comissão de Serviços e Obras Públicas,CSOP
+,8520,Comissão de Transportes e Comunicações,CTC
+,8521,Conselho de Ética e Decoro Parlamentar,CEDP
+2017-03-15T00:00:00-03:00,8522,Comissão Defesa dos Direitos Consumidor,CDDCOM
+2011-03-15T00:00:00-03:00,8523,Comissão de Assuntos Internacionais,CAI
+,103,Mesa,MESA
+0001-01-01T00:00:00-03:00,12738,CPI da TV por Assinatura,CPITVASSIN
+,9696,Corregedoria Parlamentar,CP
+2015-09-27T00:00:00-03:00,13143,CPI Diretórios Acadêmicos e Repúblicas de Estudantes,DirAc
+2015-10-07T00:00:00-03:00,13144,CPI Santas Casas,SanCas
+2015-03-14T00:00:00-03:00,13028,CPI Telefonia Móvel,CPITM
+2015-11-25T00:00:00-02:00,13142,CPI Empresas de Telecomunicações,CPIET
+2015-11-25T00:00:00-02:00,13149,CPI Acidentes no Transporte Ferroviário de Carga,CPIATFC
+0001-01-01T00:00:00-03:00,12551,CPI da Segurança Alimentar,CPISEGALIM
+2008-06-26T00:00:00-03:00,10869,CPI da Remuneração dos Serviços Médico-Hospitalares,CPIRSMH
+2008-06-25T00:00:00-03:00,11074,CPI da Telefonia,CPIT
+2009-04-15T00:00:00-03:00,11299,CPI do ECAD,CPIECAD
+,12776,Comissão de Assistência Social,
+0001-01-01T00:00:00-03:00,12901,CPI da Cartelização do Mercado de Autopeças de Reposição,CPI CMAR
+,12906,Departamento de Comissões,DECO
+2007-03-14T00:00:00-03:00,11071,CPI da Eletropaulo,CPIE
+2009-04-14T00:00:00-03:00,11272,CPI das Operadoras de Seguro,CPIOS
+2016-06-22T00:00:00-03:00,13260,CPI Energia Elétrica,CPI-EnElt
+2010-02-10T00:00:00-02:00,12268,CPI - Transporte Aéreo,CPITAEREO
+,12774,Comissão Parlamentar do Problema do Menor,
+,12775,Comissão do Primeiro Congresso das Assembleias Legislativas do Brasil,
+2014-08-27T00:00:00-03:00,12953,CPI Tarifas dos Pedágios,TarPed
+2014-08-05T00:00:00-03:00,12954,CPI Venda de Ingressos,VeIn
+2014-10-11T00:00:00-03:00,12955,CPI Aterro Pajoan,AtPa
+2014-10-22T00:00:00-02:00,12956,CPI Trabalho Escravo,TrEs
+2015-02-04T00:00:00-02:00,12957,CPI Áreas Contaminadas do Estado de SP,ArCoSP
+,11800,Comissão de Estatística,
+,11802,Comissão de Divisão Administrativa e Judiciária,
+,1000000002,Comissão Especial de Inquérito do Desemprego,
+2017-04-19T00:00:00-03:00,1000000070,CPI Epidemia da Dengue,CPI-Deng
+2017-08-09T00:00:00-03:00,1000000071,CPI Planos de Saúde,CPI-PSau
+2017-08-16T00:00:00-03:00,1000000111,CPI Cartelização da Citricultura,CPI-Citri
+2017-10-10T00:00:00-03:00,1000000137,CPI Detran,CPI-Detr
+2017-12-05T00:00:00-02:00,1000000138,CPI Pátio de Apreensão de Veículos,CPI-Patio
+2018-05-09T00:00:00-03:00,1000000186,CPI Maus-Tratos contra Animais,CPI-Maus
+2017-04-06T00:00:00-03:00,1000000036,CPI Vandalismo,CPI-Vand
+2017-06-03T00:00:00-03:00,1000000069,CPI Automedicação,CPI-AMed
+,1000000128,Comissão de Defesa dos Direitos do Consumidor,CDDC
+2019-03-14T00:00:00-03:00,1000000287,CPI Refugiados,CPI-Refug
+2019-11-05T00:00:00-02:00,1000000428,CPI - Barragem Salto Grande,CPI-BSGr
+2019-11-06T00:00:00-02:00,1000000429,CPI - Venda de Animais,CPI-VeAnim
+2019-11-06T00:00:00-02:00,1000000430,CPI - FURP - Fundação para o Remédio Popular,CPI-FURP
+2019-11-05T00:00:00-02:00,1000000431,CPI - Gestão das Universidades Públicas,CPI-UniPub
+2019-11-09T00:00:00-02:00,1000000432,CPI - Táxi Aéreo,CPI-TaxAr
+2018-09-17T00:00:00-03:00,1000000225,CPI - Organizações Sociais da Saúde - OS's,CPI - OS's
+2018-05-16T00:00:00-03:00,1000000188,CPI Operação Ethos/Condepe,CPI-Opera
+2018-10-19T00:00:00-03:00,1000000247,CPI Crimes Cibernéticos,CPI-CriCib
+2018-10-19T00:00:00-03:00,1000000248,CPI Serviços de Atendimento ao Consumidor - SACs,CPI-SAC
+2018-04-04T00:00:00-03:00,1000000187,CPI Fosfoetanolamina,CPI-Fosfo
+2018-10-19T00:00:00-03:00,1000000246,CPI Empresas de Telemarketing,CPI-EmpTel
+2018-10-19T00:00:00-03:00,1000000249,CPI Feiras Itinerantes,CPI-FeiIt
+2019-03-14T00:00:00-03:00,1000000289,CPI Situação dos Lixões e Aterros,CPI-LixAte
+2019-03-14T00:00:00-03:00,1000000290,CPI Fake News,CPI-FakeNw
+,1000000297,Comissão de Defesa e dos Direitos das Mulheres,CDDM
+2018-05-08T00:00:00-03:00,1000000209,CPI T4F Entretenimento S/A,CPI-T4F
+2020-12-02T00:00:00-02:00,1000000601,CPI - Quarteirizações,CPI-Quart
+2020-12-03T00:00:00-02:00,1000000602,CPI - Fake News - Eleições 2018,CPIFakNews
+2019-03-14T00:00:00-03:00,1000000288,CPI Exploração Infanto-Juvenil,CPI-ExpInf
+2020-12-06T00:00:00-02:00,1000000598,CPI - Transporte Escolar,CPI-TraEsc
+,1000000596,Comissão de Relações Internacionais,CRI
+2020-12-03T00:00:00-02:00,1000000599,CPI - Violência Sexual Contra Estudantes de Ensino Superior,CPI-VioSex
+2020-12-06T00:00:00-02:00,1000000600,CPI - Segurança dos Alojamentos dos Clubes Desportivos,CPI-SegAlo
